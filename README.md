@@ -10,8 +10,8 @@ Before start:
 Need to download the Tensor Toolbox from https://www.tensortoolbox.org/
 
 Code:
-	⁃	`phaseI_*.m`: to conduct modeling
+	⁃	`phaseI_*.m`: to conduct Phase I modeling
 	⁃	`Convergence.m`: to conduct convergence analysis
-	⁃	`phaseII_*.m`: to collect monitoring
+	⁃	`phaseII_*.m`: to conduct Phase II monitoring
 
 Dataset: diffusioncase.mat
